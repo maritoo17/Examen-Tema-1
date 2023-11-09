@@ -22,4 +22,8 @@ Ejercicio 4: para el ejercicio 4, he realizado una excepción típica como es la
 
 Ejercicio 5: en este ejercicio lo que he hecho ha sido copiar y pegar el código que tenía antes en el ejercicio dos y usar la función registrar_materias como lo he usado con el de mostrar_info.
 
+Ejercicio 6: para este ejercicio, he usado una función que he llamado calcularpromedio que con el array que he creado, permito que calcule el promedio sumando las sumas y luego dividiéndolo por el número de calificaciones (tamañ del array). Lo he realizado de tal forma que deje ajustar el tamaño del array dependiendo del número de calificaciones y para que deje seleccionar las calificaciones necesarias.
+
+
+
 
