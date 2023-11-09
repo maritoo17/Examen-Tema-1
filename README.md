@@ -34,3 +34,4 @@ Ejercicio 10: en este ejercicio he usado exactamente la misma estructura que con
 
 Parte 3.
 
+Para los ejercicios he usado chat gpt, otros proyectos míos de Clion y github copilot.
