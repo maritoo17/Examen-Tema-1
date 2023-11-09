@@ -29,3 +29,8 @@ Ejercicio 7: en este ejercicio, en el primer commit he tenido un problema ya que
 Ejercicio 8: para este ejercicio he usado una estructura parecida al ejercicio del estudiante con uso de arrays y strings para poder realizar una lista de estudiantes con distintas carreras y edades y conseguir que el código eligiera bien a los alumnos. En el primer commit he tenido dos errores, uno era que me había saltado una coma en un array y por tanto no lo detectaba y el otro era un fallo ortográfico a la hora de seleccionar el grado ya que había escrito mal "Ingeniería informática".
 
 Ejercicio 9: en este ejercicio he creado un código con ayuda de chat gpt que implementaba todo lo que nos pide el enunciado pero debido a un error el cual no sé solucionar no logro conseguir la opción de run para que funcione el código.
+
+Ejercicio 10: en este ejercicio he usado exactamente la misma estructura que con el ejercicio de los estudiantes solo que cambiando los datos. He usado una función de tipo int para agregar los años de experiencia debido a que son números enteros.
+
+Parte 3.
+
