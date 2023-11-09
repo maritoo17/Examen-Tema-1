@@ -20,3 +20,6 @@ Ejercicio 3: en el primer ejercicio, he hecho una prueba de intercambio de valor
 
 Ejercicio 4: para el ejercicio 4, he realizado una excepción típica como es la de división entre cero en la cual he usado los tres tipos de funciones que me pedía. Para mejorar mi primer intento, he hecho que el usuario sea capaz de elegir los valores que el quiera y que en caso de que realice una división entre cero le salga la excepción. Para la excepción, he añadido un cerr para que a la hora de resolverlo resalte la excepción en caso de que la haya.
 
+Ejercicio 5: en este ejercicio lo que he hecho ha sido copiar y pegar el código que tenía antes en el ejercicio dos y usar la función registrar_materias como lo he usado con el de mostrar_info.
+
+
