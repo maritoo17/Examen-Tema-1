@@ -24,6 +24,7 @@ Ejercicio 5: en este ejercicio lo que he hecho ha sido copiar y pegar el código
 
 Ejercicio 6: para este ejercicio, he usado una función que he llamado calcularpromedio que con el array que he creado, permito que calcule el promedio sumando las sumas y luego dividiéndolo por el número de calificaciones (tamañ del array). Lo he realizado de tal forma que deje ajustar el tamaño del array dependiendo del número de calificaciones y para que deje seleccionar las calificaciones necesarias.
 
+Ejercicio 7: en este ejercicio, en el primer commit he tenido un problema ya que me había saltado una línea de código en la que tenía que haber puesto "public". Una vez solucionado ese problema, he realizado los demás registros de asistencia del mismo día y poniendo un caso a cada uno. Para que se imprimieran, he usado la función mostrar_asistencia con el registro de asistencia correspondiente.
 
 
 
