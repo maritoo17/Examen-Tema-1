@@ -26,11 +26,11 @@ int main() {
     Estudiante listaEstudiantes[tamanoListaEstudiantes] = {
             {"Juan", 18, "Ingeniería informática"},
             {"María", 23, "Ingeniería aeronaútica"},
-            {"Sebas", 19, "Veterinaria"}
+            {"Sebas", 19, "Veterinaria"},
             {"Pepelu", 18, "Ingeniería informática"}
     };
 
-    const string gradoBuscado = "Ingebiería informática";
+    const string gradoBuscado = "Ingeniería informática";
     const int tamanoMaxEstudiantesFiltrados = tamanoListaEstudiantes;
     Estudiante estudiantesFiltrados[tamanoMaxEstudiantesFiltrados];
     int tamanoEstudiantesFiltrados = 0;
