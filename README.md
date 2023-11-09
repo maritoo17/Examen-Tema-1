@@ -26,5 +26,6 @@ Ejercicio 6: para este ejercicio, he usado una función que he llamado calcularp
 
 Ejercicio 7: en este ejercicio, en el primer commit he tenido un problema ya que me había saltado una línea de código en la que tenía que haber puesto "public". Una vez solucionado ese problema, he realizado los demás registros de asistencia del mismo día y poniendo un caso a cada uno. Para que se imprimieran, he usado la función mostrar_asistencia con el registro de asistencia correspondiente.
 
+Ejercicio 8: para este ejercicio he usado una estructura parecida al ejercicio del estudiante con uso de arrays y strings para poder realizar una lista de estudiantes con distintas carreras y edades y conseguir que el código eligiera bien a los alumnos. En el primer commit he tenido dos errores, uno era que me había saltado una coma en un array y por tanto no lo detectaba y el otro era un fallo ortográfico a la hora de seleccionar el grado ya que había escrito mal "Ingeniería informática".
 
-
+Ejercicio 9: en este ejercicio he creado un código con ayuda de chat gpt que implementaba todo lo que nos pide el enunciado pero debido a un error el cual no sé solucionar no logro conseguir la opción de run para que funcione el código.
