@@ -11,7 +11,12 @@ int divideException(int a, int b) {
 
 int main() {
     try {
-        int resultException = divideException(5, 0);
+        int a, b;
+        cout << "Introduzca el primer numero: ";
+        cin >> a;
+        cout << "Introduzca el segundo numero: ";
+        cin >> b;
+        int resultException = divideException(a, b);
         cout << "Resultado de la division: " << resultException << endl;
     }
     catch (const char* e) {
